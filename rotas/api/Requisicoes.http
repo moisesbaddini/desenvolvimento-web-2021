@@ -1,0 +1,7 @@
+GET http://localhost:4000/aluno
+
+POST http://localhost:4000/aluno
+Content-Type: application/json
+
+{"nome": "Taina", "curso": "React", "presente": true}
+

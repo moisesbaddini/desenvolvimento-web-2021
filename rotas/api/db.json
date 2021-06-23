@@ -1,0 +1,16 @@
+{
+  "aluno": [
+    {
+      "nome": "Maria",
+      "curso": "React",
+      "presente": false,
+      "id": 1
+    },
+    {
+      "nome": "Taina",
+      "curso": "React",
+      "presente": true,
+      "id": 2
+    }
+  ]
+}
