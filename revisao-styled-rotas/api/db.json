@@ -1,0 +1,38 @@
+{
+  "clientes": [
+    {
+      "id": 1,
+      "nome": "Braya"
+    },
+    {
+      "nome": "Andrés",
+      "cpf": "123456-78",
+      "id": 2
+    },
+    {
+      "nome": "Luisim",
+      "cpf": "1234567-89",
+      "id": 3
+    },
+    {
+      "nome": "Hora do café",
+      "cpf": "123456",
+      "id": 4
+    },
+    {
+      "nome": "Bernard",
+      "cpf": "987654",
+      "id": 5
+    },
+    {
+      "nome": "Karine",
+      "cpf": "444555",
+      "id": 6
+    },
+    {
+      "nome": "Regina",
+      "cpf": "66644422",
+      "id": 7
+    }
+  ]
+}
